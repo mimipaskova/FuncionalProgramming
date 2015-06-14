@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1434273401 source:d:\mimi\su - raboti\3 kurs\1 semestur\daa - prakt\homework1\bfsascii\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<cstdio>
+
